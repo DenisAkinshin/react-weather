@@ -1,0 +1,17 @@
+
+
+.form {
+    position: relative;
+    width: 300px;
+}
+.form__btn{
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    border: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background: none;
+    cursor: pointer;
+}

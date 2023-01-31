@@ -1,0 +1,26 @@
+.card__wrapper {
+    margin-top: 50px;
+}
+
+.card__img {
+    width: 300px;
+    height: 300px;
+}
+
+
+.text__wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-between;
+}
+.text {
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+.time{
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+}
